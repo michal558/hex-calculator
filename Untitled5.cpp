@@ -10,7 +10,7 @@ int main(){
 	
 	//41970
 	
-	cout<<"Podaj liczbe: "; cin>>x; 
+	cout<<"Write a number: "; cin>>x; 
 	do{
 		if(x%16==0){
 			tab4[i]= 'O';	i++;
